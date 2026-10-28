@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Majestic",
+    "slug": "majestic-app",
+    "scheme": "majestic",
+    "android": {
+      "package": "com.majestic.app"
+    }
+  }
+}
